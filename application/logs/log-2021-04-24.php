@@ -3795,3 +3795,262 @@ DEBUG - 2021-04-24 18:42:42 --> File loaded: application/views/auth/login_form.p
 DEBUG - 2021-04-24 18:42:42 --> File loaded: application/views/footer.php
 DEBUG - 2021-04-24 18:42:42 --> Final output sent to browser
 DEBUG - 2021-04-24 18:42:42 --> Total execution time: 0.1741
+DEBUG - 2021-04-24 18:47:21 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:21 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> No URI present. Default controller set.
+DEBUG - 2021-04-24 18:47:21 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:21 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:21 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:21 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:21 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: cookie_helper
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:21 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:21 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:21 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:21 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:21 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:21 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: cookie_helper
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Helper loaded: form_helper
+DEBUG - 2021-04-24 18:47:21 --> Form Validation Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> Tank_auth class already loaded. Second attempt ignored.
+DEBUG - 2021-04-24 18:47:21 --> Language file loaded: language/english/tank_auth_lang.php
+DEBUG - 2021-04-24 18:47:21 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:21 --> File loaded: application/views/header.php
+DEBUG - 2021-04-24 18:47:21 --> File loaded: application/views/menu_pop.php
+DEBUG - 2021-04-24 18:47:21 --> File loaded: application/views/auth/login_form.php
+DEBUG - 2021-04-24 18:47:21 --> File loaded: application/views/footer.php
+DEBUG - 2021-04-24 18:47:21 --> Final output sent to browser
+DEBUG - 2021-04-24 18:47:21 --> Total execution time: 0.1066
+DEBUG - 2021-04-24 18:47:25 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:25 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:25 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:25 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:25 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:25 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:25 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:25 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Helper loaded: cookie_helper
+DEBUG - 2021-04-24 18:47:25 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Helper loaded: form_helper
+DEBUG - 2021-04-24 18:47:25 --> Form Validation Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Tank_auth class already loaded. Second attempt ignored.
+DEBUG - 2021-04-24 18:47:25 --> Language file loaded: language/english/tank_auth_lang.php
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:25 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:25 --> Language file loaded: language/english/form_validation_lang.php
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:25 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:26 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:26 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> No URI present. Default controller set.
+DEBUG - 2021-04-24 18:47:26 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:26 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:26 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:26 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:26 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:26 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:26 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:26 --> File loaded: application/views/header.php
+DEBUG - 2021-04-24 18:47:26 --> File loaded: application/views/menu.php
+DEBUG - 2021-04-24 18:47:26 --> File loaded: application/views/welcome_message.php
+DEBUG - 2021-04-24 18:47:26 --> File loaded: application/views/footer.php
+DEBUG - 2021-04-24 18:47:26 --> Final output sent to browser
+DEBUG - 2021-04-24 18:47:26 --> Total execution time: 0.1225
+DEBUG - 2021-04-24 18:47:29 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:29 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:29 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:30 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:30 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:30 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:30 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:30 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:30 --> Model Class Initialized
+DEBUG - 2021-04-24 23:47:30 --> File loaded: application/views/header.php
+DEBUG - 2021-04-24 23:47:30 --> File loaded: application/views/menu.php
+DEBUG - 2021-04-24 23:47:30 --> File loaded: application/views/master/sales_com/index.php
+DEBUG - 2021-04-24 23:47:30 --> File loaded: application/views/footer.php
+DEBUG - 2021-04-24 23:47:30 --> Final output sent to browser
+DEBUG - 2021-04-24 23:47:30 --> Total execution time: 0.3069
+DEBUG - 2021-04-24 18:47:32 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:32 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:32 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:32 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:32 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:32 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 23:47:32 --> File loaded: application/views/header.php
+DEBUG - 2021-04-24 23:47:32 --> File loaded: application/views/menu_pop.php
+DEBUG - 2021-04-24 23:47:32 --> File loaded: application/views/cari/index.php
+DEBUG - 2021-04-24 23:47:32 --> File loaded: application/views/footer.php
+DEBUG - 2021-04-24 23:47:32 --> Final output sent to browser
+DEBUG - 2021-04-24 23:47:32 --> Total execution time: 0.1050
+DEBUG - 2021-04-24 18:47:32 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:32 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:32 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:32 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:32 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:32 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:32 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:32 --> Model Class Initialized
+DEBUG - 2021-04-24 23:47:32 --> Final output sent to browser
+DEBUG - 2021-04-24 23:47:32 --> Total execution time: 0.1138
+DEBUG - 2021-04-24 18:47:35 --> Config Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Hooks Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Utf8 Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> UTF-8 Support Enabled
+DEBUG - 2021-04-24 18:47:35 --> URI Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Router Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Output Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Security Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Input Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:35 --> XSS Filtering completed
+DEBUG - 2021-04-24 18:47:35 --> Global POST and COOKIE data sanitized
+DEBUG - 2021-04-24 18:47:35 --> Language Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Loader Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Helper loaded: url_helper
+DEBUG - 2021-04-24 18:47:35 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Config file loaded: application/config/tank_auth.php
+DEBUG - 2021-04-24 18:47:35 --> Session Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Helper loaded: string_helper
+DEBUG - 2021-04-24 18:47:35 --> Session routines successfully run
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Controller Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 18:47:35 --> Model Class Initialized
+DEBUG - 2021-04-24 23:47:35 --> Database Driver Class Initialized
+DEBUG - 2021-04-24 23:47:35 --> Final output sent to browser
+DEBUG - 2021-04-24 23:47:35 --> Total execution time: 0.0936
